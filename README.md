@@ -32,3 +32,11 @@ This is a python program that simulates banking functionality. The program allow
 2. Clone or download this repository.
 3. Open a terminal in the project folder.
 4. Run the script:
+
+## Screenshots
+<img width="861" height="790" alt="Screenshot 2025-11-24 142114" src="https://github.com/user-attachments/assets/5a256663-8853-4757-8c25-45315491be3a" />
+
+<img width="815" height="808" alt="Screenshot 2025-11-24 142128" src="https://github.com/user-attachments/assets/f56587ef-eee0-4922-ad47-0f65c375eefe" />
+<img width="368" height="803" alt="Screenshot 2025-11-24 142226" src="https://github.com/user-attachments/assets/b222eb4c-a63a-4642-b7d5-9195c41e17a3" />
+<img width="377" height="726" alt="Screenshot 2025-11-24 142245" src="https://github.com/user-attachments/assets/3e105402-2205-48f5-957b-28f9dc9765d7" />
+<img width="333" height="243" alt="Screenshot 2025-11-24 142255" src="https://github.com/user-attachments/assets/dff8f187-3e65-4b75-93d8-d9711721bfe6" />
