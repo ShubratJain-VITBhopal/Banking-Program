@@ -1,12 +1,12 @@
 # Banking-Program
 
 ## Overview of the Project 
-This is a basic program written in Python that simulates banking functionality. The program allows users to check their balance, deposit money, and withdraw money, demonstrating foundational programming concepts like functions, loops, and input validation.
+This is a python program that simulates banking functionality. The program allows users to check their balance, deposit money, and withdraw money.
 
 ## Key Features 
 * **Show Current Balance:** Displays the user's updated balance in a clear format.
-* **Deposit Funds:** Allows the user to add money to the account, with validation to prevent negative deposits.
-* **Withdraw Funds:** Allows the user to remove money, including checks for **insufficient funds** and negative amounts.
+* **Deposit Money:** Allows the user to add money to the account.
+* **Withdraw Money:** Allows the user to remove money, including checks for **insufficient funds** and negative amounts.
 * **Menu-Driven Interface:** Simple, logical workflow for user interaction.
 
 ## Technologies Used 
@@ -25,3 +25,10 @@ This is a basic program written in Python that simulates banking functionality. 
     Example: bankiing_program.py
 
 3.  **Start Interacting:** Follow the on-screen menu instructions (1-4).
+
+## How to Run
+
+1. Install Python on your system.
+2. Clone or download this repository.
+3. Open a terminal in the project folder.
+4. Run the script:
